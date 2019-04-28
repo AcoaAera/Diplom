@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\bin\Debug\MyPaperBack.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\bin\Debug\MyPaperBack.exe
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\bin\Debug\MyPaperBack.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.Form1.resources
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.Properties.Resources.resources
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.exe
+C:\Users\HP\Desktop\Учеба\4 курс\Диплом\C#\Мат.операции\Дипломная программа\MyPaperBack\obj\Debug\MyPaperBack.pdb
